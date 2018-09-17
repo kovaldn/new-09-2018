@@ -6,3 +6,6 @@ How to install and build my app
 2. cd new-09-2018
 3. npm i
 4. npm run build
+
+github pages here :) with love ))
+https://kovaldn.github.io/new-09-2018/dist/
